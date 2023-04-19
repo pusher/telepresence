@@ -4,11 +4,11 @@
   "description": "GitBook Documentation for Forge",
   "main": "index.js",
   "dependencies": {
-    "gitbook-cli": "^2.3.0",
+    "gitbook-cli": "^2.3.2",
     "gitbook-plugin-bulk-redirect": "^0.2.1",
     "gitbook-plugin-gtm": "0.0.6",
     "gitbook-plugin-scripts": "^1.0.2",
-    "netlify-cli": "^1.2.2"
+    "netlify-cli": "^14.0.0"
   },
   "scripts": {
     "postinstall": "gitbook install",
